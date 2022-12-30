@@ -83,3 +83,6 @@ Aktuell sind wir eifrig damit beschäftigt, das Boot weiter zu überholen und be
 Als wir die Futura gekauft hatten, konnten wir noch nicht wirklich einschätzen, wie wir sie primär nutzen würden. Inzwischen ist uns aber klar, dass es für uns am meisten Sinn macht, in den kommenden Jahren zunächst das Mittelmeer zu bereisen und sie an den verschiedensten Orten immer wieder für einige Wochen zurückzulassen, statt einfach nur kurze Törns in unserer Umgebung zu machen.
 
 Wir werden berichten!
+
+{{ airbnb_ad()}}
+

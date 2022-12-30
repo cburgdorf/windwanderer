@@ -31,7 +31,7 @@ Die ersten Tage nach dem Bootskauf wurden schnell zu einer Achterbahn der Gefüh
 
 <div class="clearfix"></div>
 
-An dieser Stelle möchten wir uns noch einmal ganz herzlich bei Peer bedanken ohne dessen Hilfe die Reise bereits zu ende gewesen wäre bevor sie angefangen hat. Tatsächlich ist dies eine Erfahrung die wir seitdem immer wieder gemacht haben: Langfahrer sind eine kleine Gemeinschaft von sehr sehr hilfsbereiten Enthusiasten. Die Hilfsbereitschaft, die wir wieder und wieder durch andere Segler erfahren rührt uns immer wieder aufs neue.
+An dieser Stelle möchten wir uns noch einmal ganz herzlich bei Peer bedanken ohne dessen Hilfe die Reise bereits zu ende gewesen wäre bevor sie angefangen hat. Tatsächlich ist dies eine Erfahrung die wir seitdem immer wieder gemacht haben: Langfahrer sind eine kleine Gemeinschaft von sehr hilfsbereiten Enthusiasten. Die Hilfsbereitschaft, die wir wieder und wieder durch andere Segler erfahren rührt uns immer wieder aufs neue.
 
 
 <img class="img-half" src="/img/unser-erstes-segeljahr/PXL_20220201_110148154.MP.jpg" alt="" />
@@ -50,7 +50,6 @@ gleich das Antifouling erneuern</div>
 
 
 
-
 ### Von Almerimar nach Tavira
 
 Die Passage vom Mittelmeer durch Gibraltar in den Atlantik ist nicht unbedingt das was man einem unerfahrenen Seglerpaar mit sechs Monate altem Baby als aller ersten Törn empfehlen würde. Aus diesem Grund hatten wir ursprünglich geplant die Überführung zusammen mit einem erfahrenen Skipper durchzuführen um anschließend an der Algarve weitere Segelerfahrung ohne fremde Hilfe zu machen. Am Ende kam jedoch wieder alles anders denn die Verzögerungen durch die Arbeiten am Schiff nebst einem einwöchigen Komplettausfall durch Corona zwangen uns schließlich dazu die Reise alleine anzutreten.
@@ -59,17 +58,26 @@ Natürlich gab es unterwegs etliche Hürden zu meistern. Es rissen Leinen, es mu
 
 <img class="img-half" src="/img/unser-erstes-segeljahr/PXL_20221222_163221087.PORTRAIT.jpg" alt="" />
 <img class="img-half" src="/img/unser-erstes-segeljahr/PXL_20221222_163117698.jpg" alt="" style=float:left;"/>
-<div class="img-subtext" style="width:50%;">Ja, wir können hier bereits so einige Dinge abhaken 😅</div>
+<div class="img-subtext">Ja, wir können hier bereits so einige Dinge abhaken 😅</div>
 
 
 Nach insgesamt 28 Tagen auf See hatten wir unser Ziel erreicht und waren mächtig stolz, alle Prüfungen unterwegs gemeistert zu haben. Da unser Wohnort Tavira nicht über eine eigene Marina verfügt, liegt unsere Futura im nahegelegenen Ayamonte in der Marina, denn wir wollten in unserem ersten Segeljahr einen möglichst einfachen Zugang für Tages- und Wochenendtörns sowie weitere Umbauarbeiten haben.
 
 ### Wie geht es weiter?
 
-Da wir das restliche Jahr über viel anderweitig in der Welt unterwegs waren, sind wir seit unserer ersten Reise weit weniger zum Segeln gekommen als es uns lieb war. Das ein oder andere Mal aber dennoch und so konnten wir unseren Erfahrungsschatz weiter ausbauen und über Nacht ankern, das Dinghi benutzen und weitere Ausrüstung installieren. Aktuell sind wir eifrig damit beschäftigt, das Boot weiter zu überholen und besser auszurüsten, denn Ende April 2023 soll es zurück ins Mittelmeer gehen. 
+Da wir das restliche Jahr über viel anderweitig in der Welt unterwegs waren, sind wir seit unserer ersten Reise weit weniger zum Segeln gekommen als es uns lieb war. Das ein oder andere Mal aber dennoch und so konnten wir unseren Erfahrungsschatz weiter ausbauen und über Nacht ankern, das Dinghi benutzen und weitere Ausrüstung installieren. 
+
+<img class="img-half" src="/img/unser-erstes-segeljahr/PXL_20220625_112721078.jpg" alt="" />
+<img class="img-half" src="/img/unser-erstes-segeljahr/PXL_20220413_121339865_2.jpg" alt="" style=float:left;"/>
+<div class="img-subtext" style="width:50%; float:left;">Lahjan war in den Osterferien mit uns an der Algarve segeln</div>
+<div class="img-subtext" style="width:50%; float:left;">Und in Deutschland lernte er auch das Segeln auf einem Opti!</div>
+
+<div class="clearfix"></div>
+
+Aktuell sind wir eifrig damit beschäftigt, das Boot weiter zu überholen und besser auszurüsten, denn Ende April 2023 soll es zurück ins Mittelmeer gehen. 
 
 <img class="img-full" src="/img/unser-erstes-segeljahr/48477122651_e88de0e2ee_c.jpg" alt="" />
-<div class="img-subtext" style="width:50%;">So soll es nächstes Jahr bitte aussehen ☀️🌊</div>
+<div class="img-subtext">So soll es nächstes Jahr bitte aussehen ☀️🌊</div>
 
 
 Als wir die Futura gekauft hatten, konnten wir noch nicht wirklich einschätzen, wie wir sie primär nutzen würden. Inzwischen ist uns aber klar, dass es für uns am meisten Sinn macht, in den kommenden Jahren zunächst das Mittelmeer zu bereisen und sie an den verschiedensten Orten immer wieder für einige Wochen zurückzulassen, statt einfach nur kurze Törns in unserer Umgebung zu machen.

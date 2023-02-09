@@ -54,8 +54,8 @@ Folgende Punkte brauchten unsere Aufmerksamkeit:
 
 Als ersten Schritt haben wir uns daran gemacht alle Kabel, die von den Batterien und den Hauptschaltern abgehen zu identifizieren und zu beschriften. Anschließend wurden die Stromkreise wieder getrennt, sodass nur noch zwei der drei Batterien parallel geschaltet sind und eine Batterie exklusiv für den Motor bleibt. So eine Trennung ist wichtig und sicherheitsrelevant, damit man nicht versehentlich durch zu viele Verbraucher die Starterbatterie soweit leert, dass der Motor nicht mehr starten kann.
 
-<img class="img-half" src="/img/winterprojekte/WhatsApp Image 2023-02-03 at 17.57.18.jpeg" alt=""/>
-<img class="img-half"src="/img/winterprojekte/WhatsApp Image 2023-02-08 at 09.35.15.jpeg" alt="" style="float:left;"/>
+<img class="img-half" src="/img/winterprojekte/WhatsApp Image 2023-02-03 at 17.57.18.jpg" alt=""/>
+<img class="img-half"src="/img/winterprojekte/WhatsApp Image 2023-02-08 at 09.35.15.jpg" alt="" style="float:left;"/>
 <div class="img-subtext" style="width:50%; float:left;">Alles hübsch sortiert und beschriftet</div>
 <div class="img-subtext" style="width:50%; float:left;">Verkabelung, Messshunt, Ladestromverteiler - alles sauber und ordentlich</div>
 
@@ -68,8 +68,8 @@ Für unser neues Solarpanel haben wir ebenfalls von Victron einen [effizienten M
 
 Und damit wir jederzeit genau sehen können wie viel Strom in das System gespeist oder verbraucht wird, haben wir noch einen [Victron Smart Shunt](https://www.svb.de/de/victron-smartshunt-inkl-bluetooth-500-a.html) verbaut. Alle drei Geräte von Victron verfügen über Bluetooth und können über eine einzige App überwacht werden was wirklich sehr gut funktioniert. Das ganze bringt zudem gegenüber einem einzelnen fest verbauten Monitor eine gewisse Redundanz, da wir die App sowohl auf unserem Navigations Tablet als auch zwei Handys betreiben können.
 
-<img class="img-half" src="/img/winterprojekte/signal-2023-02-09-133838.png" alt=""/>
-<img class="img-half"src="/img/winterprojekte/signal-2023-02-09-133906.png" alt="" style="float:left;"/>
+<img class="img-half" src="/img/winterprojekte/signal-2023-02-09-133838.jpg" alt=""/>
+<img class="img-half"src="/img/winterprojekte/signal-2023-02-09-133906.jpg" alt="" style="float:left;"/>
 <div class="img-subtext" style="width:50%; float:left;">Das Panel bei Vormittagssonne</div>
 <div class="img-subtext" style="width:50%; float:left;">Drei Geräte in einer App, unser Smart Home.</div>
 

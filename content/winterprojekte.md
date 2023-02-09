@@ -7,7 +7,7 @@ categories = ["german"]
 tags = ["german", "annoucement"]
 +++
 
-Wie bereits in unserem [letzten Artikel](/unser-erstes-segeljahr) erwähnt, brechen wir im April ins Mittelmeer auf. Doch bevor es losgehen kann, möchten wir die Futura noch etwas besser ausstatten und ihr neuen Glanz verleihen :D
+Wie bereits in unserem [letzten Artikel](/unser-erstes-segeljahr) erwähnt, brechen wir im April ins Mittelmeer auf. Doch bevor es losgehen kann, möchten wir die Futura noch etwas besser ausstatten und ihr neuen Glanz verleihen ⛵
 
 <!-- more -->
 

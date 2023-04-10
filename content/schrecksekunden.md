@@ -8,7 +8,7 @@ tags = ["german", "annoucement"]
 +++
 
 
-Wie wir [kürzlich berichtet haben](/winterprojekte) haben wir an unserer Futura gerade so einiges erneuert und gewartet. Da wir uns Elviras Eltern gerade besucht haben, ergab sich nun für uns die seltene Gelegenheit, einmal ganz ohne Kinder an Bord nur zu zweit einen Tagestörn zu machen um ein paar Dinge auszuprobieren.
+Wie wir [kürzlich berichtet haben](/winterprojekte) haben wir an unserer Futura gerade so einiges erneuert und gewartet. Da uns Elviras Eltern gerade besucht haben, ergab sich nun für uns die seltene Gelegenheit, einmal ganz ohne Kinder an Bord nur zu zweit einen Tagestörn zu machen um ein paar Dinge auszuprobieren.
 
 Nun ja, leider lief nicht alles so wie geplant und wir hatten ein paar Schrecksekunden. 😱
 

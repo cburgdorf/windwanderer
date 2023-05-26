@@ -76,6 +76,8 @@ Beim zweiten Versuch steht das Segel richtig gut im Wind und es ist einfach ein 
 
 Nach den letzten Nächten ist dann aber auch mal wieder ein Hafenaufenthalt nötig - Körper sowie Wäsche waschen, einkaufen, bewegen und durch das hübsche Örtchen Cartagena spazieren. Dort lernen wir ein richtig nettes Pärchen aus Schottland kennen, die uns auf ihr Boot zum Kaffee und Rundgang einladen. Eric geben sie Brot, um die Fische zu füttern, was ihm sehr gefällt. Seitdem schaut er immer erwartungsvoll aufs Meer und sagt “Fische?!”.
 
+{{ subscribe()}}
+
 Aber auch hier sagen wir nach ein paar Tagen wieder Tschüss und machen uns auf den weiten Weg auf die Balearen. Dies bedeutet wieder eine Nachtfahrt und wenig bis kein Schlaf. Es ist eine lange Reise und wir haben die Entfernung etwas optimistisch eingeschätzt. Nachdem der Wind nachts in Christophs Schicht wieder total abflaut, starten wir gegen 4 Uhr morgens doch wieder den Motor, um etwas Fahrt aufzunehmen, denn schließlich haben wir noch ein gutes Stück vor uns. Nach ganzen 37 Stunden erreichen wir schließlich um 22 Uhr abends Formentera - was für ein Segen! Zum ersten Mal ankern wir erst spät abends bei völliger Dunkelheit in einer ruhigen Bucht. Das nicht alle Segler ihr Ankerlicht eingeschaltet haben, gestaltet die Suche nach dem richtigen Platz noch etwas aufregender! Endlich können wir wieder etwas Schlaf reinholen, mit dem wohligen Gefühl, es tatsächlich eigenhändig mit unserer Futura auf die Balearen geschafft zu haben. 🙂
 
 <img class="img-half" src="/img/tschuess-almerimar-unterwegs-in-neuen-gefilden/signal-2023-05-19-133506_018.jpeg" alt=""/>

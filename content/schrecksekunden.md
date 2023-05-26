@@ -31,6 +31,8 @@ Wir haben den Motor noch etwa eine halbe Stunde laufen lassen bis wir uns schlie
 
 In dieser Situation, ohne Motor auf dem Meer, drei nautische Meilen flußabwärts unseres Liegeplatzes, war uns wirklich nicht ganz wohl und es sind Momente in denen wir mit unserem Abenteuerdrang hadern und uns fragen, warum wir nicht einfach mit einem Camper die Welt bereisen.
 
+{{ subscribe()}}
+
 Zunächst einmal haben wir volle Segel gesetzt um zu testen, wie gut wir gegen den Wind hochkreuzen können. Man muss wissen, normalerweise nehmen wir die Segel runter, sobald wir die Flußmündung erreichen und motoren die 3 NM den Fluß hinauf bis zu unserem Liegeplatz. Aber da uns der Motor nun verlassen hatte, war dies unsere beste Option. Parallel versuchten wir das System weiter zu entlüften in der Hoffnung, dass uns der Motor wenigsten für ein paar Minuten in der Marina bereitstehen würde.
 
 Und siehe da, das Hochkreuzen unter Segeln funktionierte besser als erwartet! Mehr noch, es hat richtig Spaß gemacht unter engem Seeraum und viel Verkehr den Fluß hinauf zu kreuzen. Eine Herausforderung, die unser sicherheitsbewusstes Denken unter normalen Umständen bisher nie zugelassen hatte, aber jetzt einfach eine Notwendigkeit war.

@@ -64,6 +64,8 @@ Als ersten Schritt haben wir uns daran gemacht alle Kabel, die von den Batterien
 
 Beim Entwirren der Kabel zeigte sich auch, dass das Landladegerät ebenfalls ein Fall fürs Museum ist. Im ursprünglichen Zustand beim Kauf waren Land- und Solarladegerät auf eine Trenndiode geschaltet, die den Strom dann auf zwei Stromkreise aufgeteilt hat. Da eine herkömmliche Trenndiode jedoch einen Spannungsverlust verursacht war dies ineffizient und nicht mehr zeitgemäß. Wir haben ein neues [Victron Blue Smart Landladegerät](https://www.svb.de/de/victron-ladegeraet-bluesmart-ip-22-12-v-20-a-3-ladeausgaenge.html) verbaut, welches über mehrere getrennte Ausgänge unsere beiden Stromkreise jeweils direkt bedienen kann. Die Trenndiode haben wir durch einen [modernen Ladestromverteiler ohne Spannungsverlust](https://www.svb.de/de/mastervolt-ladestromverteiler-battery-mate-1602-ig-mosfet-160-a-2-batteriebaenke.html) ersetzt.
 
+{{ subscribe()}}
+
 Für unser neues Solarpanel haben wir ebenfalls von Victron einen [effizienten MPPT Laderegler](https://www.svb.de/de/victron-solar-laderegler-smartsolar-mppt-100-20.html) verbaut, der so geschaltet ist, dass er die Service Batterien lädt.
 
 Und damit wir jederzeit genau sehen können wie viel Strom in das System gespeist oder verbraucht wird, haben wir noch einen [Victron Smart Shunt](https://www.svb.de/de/victron-smartshunt-inkl-bluetooth-500-a.html) verbaut. Alle drei Geräte von Victron verfügen über Bluetooth und können über eine einzige App überwacht werden was wirklich sehr gut funktioniert. Das ganze bringt zudem gegenüber einem einzelnen fest verbauten Monitor eine gewisse Redundanz, da wir die App sowohl auf unserem Navigations Tablet als auch zwei Handys betreiben können.

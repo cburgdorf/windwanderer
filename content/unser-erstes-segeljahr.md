@@ -54,6 +54,8 @@ gleich das Antifouling erneuern</div>
 
 Die Passage vom Mittelmeer durch Gibraltar in den Atlantik ist nicht unbedingt das was man einem unerfahrenen Seglerpaar mit sechs Monate altem Baby als aller ersten Törn empfehlen würde. Aus diesem Grund hatten wir ursprünglich geplant die Überführung zusammen mit einem erfahrenen Skipper durchzuführen um anschließend an der Algarve weitere Segelerfahrung ohne fremde Hilfe zu machen. Am Ende kam jedoch wieder alles anders denn die Verzögerungen durch die Arbeiten am Schiff nebst einem einwöchigen Komplettausfall durch Corona zwangen uns schließlich dazu die Reise alleine anzutreten.
 
+{{ subscribe()}}
+
 Natürlich gab es unterwegs etliche Hürden zu meistern. Es rissen Leinen, es mussten Teile ersetzt werden, wir tuschierten ein anderes Boot, wir liefen auf Grund und in Meter hohen Wellen wurden wir pitschnass und schlugen quer. 😱 Mit anderen Worten, es war ein echtes Abenteuer. Und dennoch haben wir das Schiff heile nach hause gebracht. 
 
 <img class="img-half" src="/img/unser-erstes-segeljahr/PXL_20221222_163221087.PORTRAIT.jpg" alt="" />

@@ -79,6 +79,8 @@ Seit wir die Filter gewechselt und den Motor entlüftet haben, leckt es stetig e
 
 Das Ergebnis in den nächsten Tagen lässt uns hoffnungsvoll sein und wir entscheiden, den Motor ein letztes Mal laufen zu lassen, um sicherzustellen, dass auch bei laufendem Motor alles dicht ist. Völlig unerwartet geht der Motor schließlich nach 30 Minuten aus und lässt sich nicht mehr starten. Luft im System. Schon wieder! Wir sind richtig genervt! Eric möchte am liebsten spazieren gehen, doch wir müssen ihn leider mit Duplo vertrösten.
 
+{{ subscribe()}}
+
 Also packen wir es an: Wir entlüften am Feinfilter, doch sehen eine Luftblase im Schlauch, die einfach nicht höher wandern möchte. Also beschließen wir das System wieder mit der großen Pumpe zu entlüften, die wir auch für die Ölwechsel benutzen. Damit wandert die Luftblase im Schlauch im Eiltempo. Wir pumpen noch eine Weile weiter und probieren den Motor zu starten. Nichts. Wir pumpen und probieren es wieder. Nichts. Alles klar, probieren wir die Dekompressionsventile an den Zylindern. Wir probieren es mehrere Male im Wechsel. Es will nicht. Wir haben noch einen letzten Joker. Eine weitere Entlüftungsschraube weiter tiefer am Motor, bereits hinter dem Feinfilter. Dort haben wir auch beim letzten Mal mit entlüften müssen. Die Schraube ist nur schwer zugänglich und bewegt sich erst nach etlichem Gefluche!
 
 <img class="img-half" src="/img/wieder-in-almerimar/bolzen.jpg" alt="" />

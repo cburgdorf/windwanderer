@@ -42,6 +42,8 @@ Da springt uns ins Auge, dass sich der Aufnahmearm vor der Trommel etwas gelöst
 
 In Mazagon angekommen lassen wir in einer komplett leeren Bucht den Anker fallen, nehmen brav mehrere 3-Punkt-Peilungen, bis wir uns schließlich sicher sind, dass der Anker fest eingegraben ist und halten wird. Wir genießen die Ruhe und Nähe zur Natur vor Anker und erinnern uns daran, wie wir vor ca. genau einem Jahr aus dem Mittelmeer kommend hier in Mazagon in der Marina lagen. Wir sind uns einig: Vor Anker ist es tausend Mal schöner!
 
+{{ subscribe()}}
+
 Irgendwie muss es bei dem Kampf mit unserem Vorsegel unsere Gastlandflagge abgerissen haben und wir müssen bis zur ersten Saling den Mast hoch um die Leine neu anzubringen. Es bietet sich eine hervorragende Gelegenheit für Elvira ihre Höhenangst zu überwinden und zudem unseren neuen [Baumpflegergurt](https://www.amazon.de/-/en/gp/product/B015MQH2TS) zu testen.
 
 <img class="img-half" src="/img/wir-sind-unterwegs/signal-2023-04-14-19-58-57-158.jpg" alt=""/>

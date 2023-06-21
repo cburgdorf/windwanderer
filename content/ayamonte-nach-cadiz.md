@@ -76,8 +76,8 @@ Wir verbringen schließlich eine wundervolle Nacht vor Anker in einer Atmosphär
 
 Am nächsten Morgen steuern wir die nur wenige Meter entfernte Marina Puerto de America an, um den aufkommenden Sturm auszusitzen. Wir waren bereits vergangenes Jahr in Cadiz und es zählt für uns zu einer der schönsten Städte in Spanien.
 
-<img src="/img/wir-sind-unterwegs/storm.png" alt=""/>
-<div class="img-subtext">Es pustet reichlich Ostwind durch Gibraltar</div>
+
+{{ imgwide(text="Es pustet reichlich Ostwind durch Gibraltar", url="/img/wir-sind-unterwegs/storm.png")}}
 
 
 Wir genießen die Landtage, machen Besorgungen und erledigen ein paar Arbeiten an Bord. Christoph nutzt die Tage um vormittags in die Stadt zu gehen, um aus Cafés heraus seiner Arbeit am Laptop nachzugehen. Mittags treffen wir uns, gehen gemeinsam Essen und verbringen den Nachmittag dann wieder getrennt und treffen uns abends wieder gemeinsam an Bord.

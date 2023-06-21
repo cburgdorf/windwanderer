@@ -28,11 +28,13 @@ Der Wind frischt auf, wir machen ordentlich Fahrt und bei einer Krängung von ca
 
 Um kurzfristig weiter Fahrt und Krängung aus dem Schiff zu bekommen, rollen wir zunächst das Hauptsegel weiter ein und Christoph probiert sich ein weiteres Mal an der Trommel. Er beschließt schließlich, die Reffleine komplett aus den Führungen zu nehmen, sie von Hand abzuwickeln um sie schließlich von Hand wieder sauber um die Trommel zu legen. Eine langwierige, mühsame Aktion, die uns aber schließlich gelingt.
 
-<img class="img-half" src="/img/wir-sind-unterwegs/eric-cockpit.jpg" alt=""/>
-<img class="img-half"src="/img/wir-sind-unterwegs/vorsegel-hakt.jpg" alt="" style="float:left;"/>
-<div class="img-subtext" style="width:50%; float:left;">Das Vorsegel bereitet uns zunächst Probleme</div>
-<div class="img-subtext" style="width:50%; float:left;">Eric vergnügt auf seinem Lieblingsplatz</div>
-<div class="clearfix"></div>
+{{ imgpair(
+  url_left="/img/wir-sind-unterwegs/vorsegel-hakt.jpg",
+  text_left="Das Vorsegel bereitet uns zunächst Probleme."
+  url_right="/img/wir-sind-unterwegs/eric-cockpit.jpg",
+  text_right="Eric vergnügt auf seinem Lieblingsplatz."
+)}}
+
 
 Wir starten einen neuen Versuch das Vorsegel zu setzen und wieder einzuholen. Wir achten penibel darauf, die Reffleine auf Spannung zu halten, doch wieder vertörnt sich die Leine und springt von der Trommel. Es ist zum heulen: Wir haben eine Ewigkeit gebraucht um das Wirrwarr zu bändigen und nun war die ganze Arbeit umsonst?! Was ist denn jetzt schon wieder los?!
 
@@ -46,11 +48,13 @@ In Mazagon angekommen lassen wir in einer komplett leeren Bucht den Anker fallen
 
 Irgendwie muss es bei dem Kampf mit unserem Vorsegel unsere Gastlandflagge abgerissen haben und wir müssen bis zur ersten Saling den Mast hoch um die Leine neu anzubringen. Es bietet sich eine hervorragende Gelegenheit für Elvira ihre Höhenangst zu überwinden und zudem unseren neuen [Baumpflegergurt](https://www.amazon.de/-/en/gp/product/B015MQH2TS) zu testen.
 
-<img class="img-half" src="/img/wir-sind-unterwegs/signal-2023-04-14-19-58-57-158.jpg" alt=""/>
-<img class="img-half"src="/img/wir-sind-unterwegs/IMG_20230414_193737_1_HDR.jpg" alt="" style="float:left;"/>
-<div class="img-subtext" style="width:50%; float:left;">Elvira bringt im Mast unsere Gastlandflaggen in Ordnung</div>
-<div class="img-subtext" style="width:50%; float:left;">Ein gut gelaunter Eric beim Spielen im Cockpit</div>
-<div class="clearfix"></div>
+{{ imgpair(
+  url_left="/img/wir-sind-unterwegs/IMG_20230414_193737_1_HDR.jpg",
+  text_left="Ein gut gelaunter Eric beim Spielen im Cockpit."
+  url_right="/img/wir-sind-unterwegs/signal-2023-04-14-19-58-57-158.jpg",
+  text_right="Elvira bringt im Mast unsere Gastlandflaggen in Ordnung."
+)}}
+
 
 Es klappt! Diese Höhe stellt für Elvira kein Problem dar und sie beschließt bei nächster Gelegenheit den Mast auch einmal komplett hochzuklettern. Das nächste Boot bekommt aber Maststufen und vielleicht auch eine elektrische Winsch!
 
@@ -62,10 +66,13 @@ In Cadiz bereitet uns das Vorsegel noch einmal einen großen Schreck. Bei ordent
 
 Wir verbringen schließlich eine wundervolle Nacht vor Anker in einer Atmosphäre, die nahezu unwirklich scheint. Ganz alleine liegen wir in einer großen Bucht, inmitten der Stadt, umgeben von einer großen Brücke und Hafenindustrie. Überall funkeln die Lichter der Stadt und dennoch wirkt es hier so ruhig und friedlich.
 
-<img class="img-half" src="/img/wir-sind-unterwegs/cadiz-bridge.jpg" alt="" />
-<img class="img-half" src="/img/wir-sind-unterwegs/cadiz-anker.jpg" alt="" style=float:left;"/>
-<div class="img-subtext" style="width:50%; float:left;">Vor Anker genießen wir die Zeit zu dritt auf dem Vorschiff</div>
-<div class="img-subtext" style="width:50%; float:left;">Eine tolle Ankeratmosphäre im Herzen der Stadt</div>
+{{ imgpair(
+  url_left="/img/wir-sind-unterwegs/cadiz-anker.jpg",
+  text_left="Vor Anker genießen wir die Zeit zu dritt auf dem Vorschiff."
+  url_right="/img/wir-sind-unterwegs/cadiz-bridge.jpg",
+  text_right="Eine tolle Ankeratmosphäre im Herzen der Stadt."
+)}}
+
 
 Am nächsten Morgen steuern wir die nur wenige Meter entfernte Marina Puerto de America an, um den aufkommenden Sturm auszusitzen. Wir waren bereits vergangenes Jahr in Cadiz und es zählt für uns zu einer der schönsten Städte in Spanien.
 

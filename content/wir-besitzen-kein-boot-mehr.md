@@ -31,7 +31,7 @@ Nach über 8 Wochen Segelpause dürstet es uns nach Seemeilen, aber der Wetterbe
   text_right="Bei ruhiger See darf auch im Cockpit mit Duplo gespielt werden."
 )}}
 
-Doch nach dem Sturm kommt der Wind zunächst aus nördlicher Richtung - mit der Prognose anschließend stark abzuflauen. Wir überlegen noch, ob wir wieder Kurs zurück auf die Balearen nehmen sollen, doch zeitlich erscheint uns das ganze zu riskant, auch weil wir bereits die ersten möglichen Besichtigungen für die Futura planen. Und deshalb nehmen wir stattdessen lieber Kurs auf ein eher außergewöhnliches Ziel: die Islas Columbretes - einer kleinen Inselkette zwischen dem spanischen Festland und den Balearen, die lediglich von einigen Rangern und Forschern bewohnt wird. Es stehen hier Anlegebojen zur Verfügung, die kostenlos zur Übernachtung genutzt werden können. Zudem sind uns die Inseln bereits mehrfach von anderen Seglern als Geheimtipp empfohlen worden.
+Doch nach dem Sturm kommt der Wind zunächst aus nördlicher Richtung - mit der Prognose anschließend stark abzuflauen. Wir überlegen noch, ob wir wieder Kurs zurück auf die Balearen nehmen sollen, doch zeitlich erscheint uns das ganze zu riskant, auch weil wir bereits die ersten möglichen Besichtigungen für die Futura planen. Und deshalb nehmen wir stattdessen lieber Kurs auf ein eher außergewöhnliches Ziel: die [Islas Columbretes](https://www.noforeignland.com/place/6578482333089792) - einer kleinen Inselkette zwischen dem spanischen Festland und den Balearen, die lediglich von einigen Rangern und Forschern bewohnt wird. Es stehen hier Anlegebojen zur Verfügung, die kostenlos zur Übernachtung genutzt werden können. Zudem sind uns die Inseln bereits mehrfach von anderen Seglern als Geheimtipp empfohlen worden.
 
 Doch der Weg dorthin ist beschwerlich, denn wir segeln hart am Wind und die Wellen sind so unmittelbar nach dem Sturm noch recht hoch, sodass wir mehr als einmal überlegen, Kurs zurück zur Küste zu nehmen, um uns in kurzen Schlägen über mehrere Tage bis ins Ebro Delta vorzuarbeiten.
 
@@ -61,7 +61,7 @@ Der Platz ist nicht besonders ruhig, denn die Welle steht genau in die Bucht hin
 
 Nach zwei Tagen auf den Inseln nehmen wir Kurs zurück aufs Festland. Wo genau wir die Küste erreichen werden, können wir mit Wind und Welle abstimmen, doch die Verhältnisse machen es uns einfach und lassen unseren Wunschkurs auf Vinarós zu. Die Bedingungen sind perfekt. Die See ist ruhig, die Sonne scheint und wir haben genügend Wind in den Segeln. Das Meer ist voll mit Spiegeleiquallen und besonders Eric erfreut sich an den vielen Quallen, die an der Futura vorbeiziehen.
 
-In Vinarós werden wir sehr herzlich vom Hafenmeister empfangen und überhaupt gefällt uns die Marina und der Ort sehr gut. Zudem treffen wir alte Bekannte von der SY Magic wieder, ein deutsches Paar aus Heidelberg, mit dem wir uns bereits in Burriananova einen Steg geteilt hatten. Wir sitzen abends bei Bier und Knabberkram zusammen und tauschen uns über unsere Erlebnisse aus. Es wird nicht das letze Mal sein, dass wir die beiden treffen.
+In [Vinarós](https://www.noforeignland.com/place/4670780870754304) werden wir sehr herzlich vom Hafenmeister empfangen und überhaupt gefällt uns die Marina und der Ort sehr gut. Zudem treffen wir alte Bekannte von der SY Magic wieder, ein deutsches Paar aus Heidelberg, mit dem wir uns bereits in Burriananova einen Steg geteilt hatten. Wir sitzen abends bei Bier und Knabberkram zusammen und tauschen uns über unsere Erlebnisse aus. Es wird nicht das letze Mal sein, dass wir die beiden treffen.
 
 {{ imgpair(
   url_left="/img/kein-boot-mehr/geburtstag_1-min.jpg",
@@ -70,7 +70,7 @@ In Vinarós werden wir sehr herzlich vom Hafenmeister empfangen und überhaupt g
   text_right="Die Spanier schenken uns regelmäßig frischen Fisch."
 )}}
 
-Rein zufällig erfahren wir dann auch, dass ganz in der Nähe eine Moody 425 zum Verkauf steht. Eigentlich kontaktieren wir die amerikanischen Eigner primär, weil sie mit einem Kind in Erics Alter unterwegs sind, doch so erfahren wir ganz nebenbei, dass sie planen ihr Boot zu verkaufen. Sie haben noch einen Alukatamaran in Australien liegen und zwei Boote machen eben doch sehr viel Arbeit! Leider verpassen wir die Familie knapp, doch sie laden uns dennoch ein, ihr Boot, das in La Ràpita auf dem Trockendock steht, auch in ihrer Abwesenheit zu besichtigen. Da wir ohnehin beabsichtigen noch einige Tage im Ebro Delta zu ankern, bedeutet La Ràpita für uns keinen großen Umweg und so nehmen wir das Angebot gerne an.
+Rein zufällig erfahren wir dann auch, dass ganz in der Nähe eine Moody 425 zum Verkauf steht. Eigentlich kontaktieren wir die amerikanischen Eigner primär, weil sie mit einem Kind in Erics Alter unterwegs sind, doch so erfahren wir ganz nebenbei, dass sie planen ihr Boot zu verkaufen. Sie haben noch einen Alukatamaran in Australien liegen und zwei Boote machen eben doch sehr viel Arbeit! Leider verpassen wir die Familie knapp, doch sie laden uns dennoch ein, ihr Boot, das in La Ràpita auf dem Trockendock steht, auch in ihrer Abwesenheit zu besichtigen. Da wir ohnehin beabsichtigen noch einige Tage im [Ebro Delta](https://www.noforeignland.com/place/5688306327093248) zu ankern, bedeutet La Ràpita für uns keinen großen Umweg und so nehmen wir das Angebot gerne an.
 
 {{ imgpair(
   url_left="/img/kein-boot-mehr/reisfeld_ebro-min.jpg",
@@ -100,7 +100,7 @@ Die spanische Mittelmeerküste ist sehr sonnenverwöhnt und wir können die Rege
   text_right="Eric sammelt Schätze am Strand."
 )}}
 
-Nachdem wir La Ràpita verlassen haben, ankern wir noch einige Tage auf der Nordseite des Ebro Deltas. Wir erkunden die Austernfarmen mit dem Dinghy und nutzen einen kleinen Fischerhafen für einen Landspaziergang.
+Nachdem wir [La Ràpita](https://www.noforeignland.com/place/6512853823520768) verlassen haben, ankern wir noch einige Tage auf der [Nordseite des Ebro Deltas](https://www.noforeignland.com/place/6386362821378048). Wir erkunden die Austernfarmen mit dem Dinghy und nutzen einen kleinen Fischerhafen für einen Landspaziergang.
 
 Nördlich vom Ebro Delta ändert sich die Küstenlinie dann wieder deutlich und wir verbringen wunderschöne Nächte vor Anker und an Bojen in kleinen Buchten mit kristallklarem Wasser. Immer wieder landen wir mit dem Dinghy an Stränden an, die von dichten Pinienwäldern gesäumt sind.
 
@@ -112,12 +112,12 @@ Nördlich vom Ebro Delta ändert sich die Küstenlinie dann wieder deutlich und 
 )}}
 
 
-In Tarragona laufen wir das letzte Mal in einen Hafen ein, den wir auch wieder beabsichtigen zu verlassen, denn von dort ist es nur noch ein Katzensprung bis nach Vilanova, unserem geplanten Zielhafen. Die Stadt entpuppt sich als sehr sehenswert und als gute Alternative für diejenigen, denen Barcelona zu groß und hektisch ist. Wir verbringen hier einige Tage und Christoph nutzt die Hafentage zum Arbeiten aus diversen Cafés heraus.
+In [Tarragona](https://www.noforeignland.com/place/5207164343812096) laufen wir das letzte Mal in einen Hafen ein, den wir auch wieder beabsichtigen zu verlassen, denn von dort ist es nur noch ein Katzensprung bis nach Vilanova, unserem geplanten Zielhafen. Die Stadt entpuppt sich als sehr sehenswert und als gute Alternative für diejenigen, denen Barcelona zu groß und hektisch ist. Wir verbringen hier einige Tage und Christoph nutzt die Hafentage zum Arbeiten aus diversen Cafés heraus.
 
 
 ## Verkauf der Futura
 
-Von Tarragona aus segeln wir nur noch wenige Stunden nach Vilanova. Wir haben jetzt noch eine kleine To-Do-Liste abzuarbeiten, um das Boot für den Besuch unseres potentiellen Käufers Reinhard aus Österreich herzurichten. In den letzten Wochen standen wir mit einigen potentiellen Käufern in Kontakt, doch einer hat sich als Favorit herauskristallisiert und bereits vor einigen Tagen seinen Flug nach Barcelona gebucht, um sich die Futura vor Ort anzusehen und wohlmöglich den Kauf mit uns abzuschließen.
+Von Tarragona aus segeln wir nur noch wenige Stunden nach [Vilanova](https://www.noforeignland.com/place/6281576142864384). Wir haben jetzt noch eine kleine To-Do-Liste abzuarbeiten, um das Boot für den Besuch unseres potentiellen Käufers Reinhard aus Österreich herzurichten. In den letzten Wochen standen wir mit einigen potentiellen Käufern in Kontakt, doch einer hat sich als Favorit herauskristallisiert und bereits vor einigen Tagen seinen Flug nach Barcelona gebucht, um sich die Futura vor Ort anzusehen und wohlmöglich den Kauf mit uns abzuschließen.
 
 {{ imgpair(
   url_left="/img/kein-boot-mehr/neue_heckleuchte-min.jpg",

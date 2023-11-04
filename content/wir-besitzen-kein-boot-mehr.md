@@ -91,6 +91,8 @@ Doch bevor wir uns im Hafen von La Ràpita die Moody ansehen, erleben wir vor An
 
 Bevor wir uns in La Ràpita die Moody ansehen können, haben wir noch ein unangenehmes Problem zu lösen. Unser Schwarzwassertank ist verstopft und die braune Brühe findet durch den Überlauf ihren Weg aus dem Tank. Die Details der Sauererei ersparen wir euch an dieser Stelle, doch wir können euch versichern, dass es im wahrsten Sinne des Wortes eine Drecksarbeit war, dieses Problem zu lösen!
 
+{{ subscribe()}}
+
 Die spanische Mittelmeerküste ist sehr sonnenverwöhnt und wir können die Regentage unserer Segelsaison an einer Hand abzählen. Doch ausgerechnet an dem Tag, an dem wir die Moody besichtigen wollen, regnet es in Strömen. Leider findet der Regen jedoch nahezu durch jede Luke und Fenster seinen Weg in die Moody. Optisch ist das Boot, welches ähnlich alt ist wie unsere Futura, in einem deutlich abgenutzteren Zustand. Nichts was sich nicht lösen ließe, und der Eigner zeigt sich auch offen für entsprechende Preisnachlässe, doch wir tun uns auch schwer mit dem Center Cockpit Konzept der Moody. Natürlich hat alles Vor- und Nachteile, doch wir beschließen, uns künftig auf Boote mit Achtercockpit zu konzentrieren.
 
 {{ imgpair(

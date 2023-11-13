@@ -15,3 +15,21 @@
 .post-preview-continue-reading {
   font-weight: bold;
 }
+
+.logo {
+  width: 75px;
+
+  &.desktop {
+    display: none;
+    @media only screen and (min-width: 992px) {
+    display: inline-block;
+    }
+  }
+
+  &.mobile {
+    display: none;
+    @media only screen and (max-width: 991px) {
+    display: inline-block;
+    }
+  }
+}

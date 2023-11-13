@@ -28,5 +28,6 @@ author = "Elvira & Christoph"
 clean_blog_menu = [
     {url = "https://www.marinetraffic.com/de/ais/details/ships/shipid:6978165/mmsi:211844640/imo:0/vessel:FUTURA", name="Position"},
     {url = "$BASE_URL", name = "Home"},
+    {url = "$BASE_URL/contact", name = "Kontakt"}
 ]
 clean_blog_social = []

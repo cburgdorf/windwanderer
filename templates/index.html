@@ -26,7 +26,7 @@
   {% endif %}
 
   {% if page.content %}
-  {% set description = page.summary | safe | truncate(length=150) %}
+  {% set description = page.summary | safe | striptags | truncate(length=150) %}
   {% elif section.description %}
   {% set description = section.description | truncate(length=150) %}
   {% elif config.description %}

@@ -16,7 +16,23 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta name="author" content="">
-  <title>{% block title %}{{ config.title }}{% endblock title %}</title>
+
+  {% if page.title %}
+  {% set title = page.title ~ " | Wind Wanderer" %}
+  {% elif section.title %}
+  {% set title = section.title %}
+  {% elif config.title %}
+  {% set title = config.title %}
+  {% endif %}
+
+  {% if page.content %}
+  {% set description = page.summary | safe | truncate(length=150) %}
+  {% elif section.description %}
+  {% set description = section.description | truncate(length=150) %}
+  {% elif config.description %}
+  {% set description = config.description | truncate(length=150) %}
+  {% endif %}
+
 
   <!-- Bootstrap core CSS -->
   <link rel="stylesheet" href="{{ get_url(path="css/bootstrap.min.css") }}">
@@ -32,24 +48,40 @@
   <link rel="stylesheet" href="{{ get_url(path="clean-blog.css", trailing_slash=false, cashebust=true) }}">
 
   <!-- Primary Meta Tags -->
-  <title>Wind Wanderer</title>
-  <meta name="title" content="Wind Wanderer">
-  <meta name="description" content="">
+  {% if title %}
+  <title>{{ title }}</title>
+  {% endif %}
+
+  {% if title %}
+  <meta name="title" content="{{ title }}">
+  {% endif %}
+
+  {% if description %}
+  <meta name="description" content="{{ description }}">
+  {% endif %}
 
   <link rel="image_src" href="https://windwanderer.xyz/img/home-bg-small.jpg" />
 
   <!-- Open Graph / Facebook -->
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://windwanderer.xyz/">
-  <meta property="og:title" content="Wind Wanderer">
-  <meta property="og:description" content="Gone Sailing">
+  {% if title %}
+  <meta property="og:title" content="{{ title }}">
+  {% endif %}
+  {% if description %}
+  <meta property="og:description" content="{{ description }}">
+  {% endif %}
   <meta property="og:image" content="https://windwanderer.xyz/img/home-bg-small.jpg">
 
   <!-- Twitter -->
   <meta property="twitter:card" content="summary_large_image">
   <meta property="twitter:url" content="https://windwanderer.xyz/">
-  <meta property="twitter:title" content="Wind Wanderer">
-  <meta property="twitter:description" content="Gone Sailing">
+  {% if title %}
+  <meta property="twitter:title" content="{{ title }}">
+  {% endif %}
+  {% if description %}
+  <meta property="twitter:description" content="{{ description }}">
+  {% endif %}
   <meta property="twitter:image" content="https://windwanderer.xyz/img/home-bg-small.jpg">
 
 </head>

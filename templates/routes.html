@@ -1,0 +1,43 @@
+{% extends "index.html" %}
+
+{% block header %}
+<!-- Page Header -->
+<header class="masthead" style="background-image: url('{{ get_url(path="/img/contact-bg.jpg")}}')">
+  <div class="overlay"></div>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-md-10 mx-auto">
+        <div class="page-heading">
+          <h1>Routen und Jahre</h1>
+          <span class="subheading">Wo uns der Wind hintreibt</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+{% endblock header %}
+
+{% block content %}
+<!-- Main Content -->
+<div class="container page-boat">
+  <div class="row">
+    <div class="col-lg-8 col-md-10 mx-auto">
+      <h2>2024</h2>
+      <img src="{{ get_url(path="/img/routen/route_2024.png")}}" alt="Unsere Route 2024" class="img-fluid">
+      <p>Das erste Jahr mit unserer Wanderer sind wir aus Südfrankreich gestartet. Unsere Highlights: Korsika, Elba, Sardinien, Ponza, Giglio, Ischia und das italienische Festland.
+        Im Winter liegt unsere Wanderer auf Sizilien.
+      </p>
+      <h2>2023</h2>
+      <img src="{{ get_url(path="/img/routen/route_2023.png")}}" alt="Unsere Route 2023" class="img-fluid">
+      <p>2023 haben wir die Futura von Ayamonte aus zurück ins Mittelmeer gesegelt, die Balearen bereist und es schließlich in der Nähe von Barcelona verkauft.</p>
+
+      <h2>2022</h2>
+      <img src="{{ get_url(path="/img/routen/route_2022.png")}}" alt="Unsere Route 2022" class="img-fluid">
+      <p>2022 haben wir die Futura ohne jegliche Segelvorkentnisse in Almerimar gekauft. Nachdem Christoph die RYA Dayskipper Ausbildung
+        absolviert hatte, sind wir die Futura von Almerimar bis in den Atlantik zu unserer Wohnung nach Portugal gesegelt. Die restliche Saison
+        haben wir ledglichlich Tages- und Wochenendtörns unternommen.</p>
+      </p>
+    </div>
+  </div>
+</div>
+{% endblock content %}

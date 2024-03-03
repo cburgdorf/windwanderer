@@ -50,9 +50,9 @@ Irgendwie muss es bei dem Kampf mit unserem Vorsegel unsere Gastlandflagge abger
 
 {{ imgpair(
   url_left="/img/wir-sind-unterwegs/IMG_20230414_193737_1_HDR.jpg",
-  text_left="Ein gut gelaunter Eric beim Spielen im Cockpit."
+  text_left="Elvira bringt im Mast unsere Gastlandflaggen in Ordnung."
   url_right="/img/wir-sind-unterwegs/signal-2023-04-14-19-58-57-158.jpg",
-  text_right="Elvira bringt im Mast unsere Gastlandflaggen in Ordnung."
+  text_right="Ein gut gelaunter Eric beim Spielen im Cockpit."
 )}}
 
 

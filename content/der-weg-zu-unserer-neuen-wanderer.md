@@ -22,9 +22,9 @@ Größer ist natürlich nicht automatisch besser, denn abgesehen von den höhere
 
 ## Nicht zu neu, nicht zu alt
 
-An der Frage des Alters scheiden sich die Gemüter. Viele Langfahrtseglern schwören auf ältere Boote, die noch von Hand gebaut wurden und bei denen noch nicht an allen Enden am Material gespart wurde. Doch auch moderne Boote haben ihre Vorteile. Sie bieten in der Regel mehr Platz und Komfort und natürlich ist auch jedes Kabel, jeder Schlauch, der Motor, die Tanks usw entsprechend jünger und sollte somit auch weniger anfällig für Defekte sein.
+An der Frage des Alters scheiden sich die Gemüter. Viele Langfahrtsegler schwören auf ältere Boote, die noch von Hand gebaut wurden und bei denen noch nicht an allen Enden am Material gespart wurde. Doch auch moderne Boote haben ihre Vorteile. Sie bieten in der Regel mehr Platz und Komfort und natürlich ist auch jedes Kabel, jeder Schlauch, der Motor, die Tanks usw entsprechend jünger und sollte somit auch weniger anfällig für Defekte sein.
 
-Wir haben uns verschiedene Boote angesehen, dabei war unter anderem auch auf einer Jeanneau Sun Odyssey 42 DS, die Jeanneau 2007 erstmals auf den Markt gebracht hat. Das Raumangebot war ausgesprochen gut und Christoph hat mit seinen 194 cm Körpergröße im ganzen Boot gefühlt noch 20 cm Luft nach oben. Allerdings hat uns der Innenausbau ganz und gar nicht überzeugt. Es wirkt irgendwie billig wie ein modernes IKEA Möbelstück aus Presspan mit einer dünnen Schicht Furnier.
+Wir haben uns verschiedene Boote angesehen, dabei war unter anderem auch auf einer Jeanneau Sun Odyssey 42 DS, die Jeanneau 2007 erstmals auf den Markt gebracht hat. Das Raumangebot war ausgesprochen gut und Christoph hat mit seinen 194 cm Körpergröße im ganzen Boot gefühlt noch 20 cm Luft nach oben. Allerdings hat uns der Innenausbau ganz und gar nicht überzeugt. Es wirkt irgendwie billig wie ein modernes IKEA Möbelstück aus Pressspan mit einer dünnen Schicht Furnier.
 
 {{ imgwide(text="Dank dieser netten spanischen Crew sehen wir das erste Mal eine SO 42 DS aus nächster Nähe. Es zeigt uns auch: Wir wollen lieber ein älteres Boot!", url="/img/der-weg-zu-unserer-wanderer/ds42-min.jpg")}}
 

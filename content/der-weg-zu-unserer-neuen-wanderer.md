@@ -7,7 +7,7 @@ categories = ["german"]
 tags = ["german", "annoucement"]
 +++
 
-Als wir 2021 mit unseren Freunden in Tavira bei einer Pizza zusammensitzen und von unserem Plan ein Segelboot zu kaufen berichten, sagt uns William: "Du weißt eigentlich erst, was für ein Boot du brauchst, nachdem du eins gekauft hast". Als Holländer mit einem Hausboot muss er es wissen. Er sollte recht behalten. Als wir die Futura Januar 2022 in Spanien kaufen, wissen wir praktisch noch gar nichts über Boote. Doch als wir sie im Oktober 2023 wieder verkaufen, haben wir inzwischen sehr konkrete Vorstellungen davon, wie unser zukünftiges Boot aussehen soll. In diesem Artikel möchten wir euch auf unsere Reise zu unsererm neuen Boot, unserer "Wanderer" mitnehmen.
+Als wir 2021 mit unseren Freunden in Tavira bei einer Pizza zusammensitzen und von unserem Plan ein Segelboot zu kaufen berichten, sagt uns William: "Du weißt eigentlich erst, was für ein Boot du brauchst, nachdem du eins gekauft hast". Als Holländer mit einem Hausboot muss er es wissen. Er sollte recht behalten. Als wir die Futura Januar 2022 in Spanien kaufen, wissen wir praktisch noch gar nichts über Boote. Doch [als wir sie im Oktober 2023 wieder verkaufen](/wir-besitzen-kein-boot-mehr), haben wir inzwischen sehr konkrete Vorstellungen davon, wie unser zukünftiges Boot aussehen soll. In diesem Artikel möchten wir euch auf unsere Reise zu unsererm neuen Boot, unserer ["Wanderer"](/boats) mitnehmen.
 
 <!-- more -->
 
@@ -80,7 +80,7 @@ Tatsächlich haben wir bereits relativ früh einen heimlichen Favoriten: die Jea
 
 Im Dezember kommt schließlich eine Sun Odyssey 43 DS bei Marseille in Frankreich auf den Markt, die unsere Augen aufleuchten lässt. Es erfüllt alle unsere Kriterien und man sieht sofort, dass es ein Langfahrer Boot ist. Viele kleine Details auf den Bildern verraten uns, dass es kein Charterboot ist, sondern dass hier die Eigner wirklich auf ihrem Boot gelebt haben.
 
-Das Boot ist über einen Makler inseriert doch wir möchten versuchen einen direkten Kontakt zum Eigner herzustellen. Am einfachsten geht das über den Bootsnamen, der sich auf einem der Bilder findet und den wir schließlich auf noforeignland.com finden und kontaktieren. Zum einen erhalten wir so die Möglichkeit den Eigner direkt mit unseren Fragen zu löchern und weitere Bilder anzufragen und zum anderen sparen wir uns im Falle eines Kaufs die Maklerprovision, die das Boot unnötig verteuern würde.
+Das Boot ist über einen Makler inseriert doch wir möchten versuchen einen direkten Kontakt zum Eigner herzustellen. Am einfachsten geht das über den Bootsnamen, der sich auf einem der Bilder findet und den wir schließlich auf [noforeignland](https://www.noforeignland.com) finden und kontaktieren. Zum einen erhalten wir so die Möglichkeit den Eigner direkt mit unseren Fragen zu löchern und weitere Bilder anzufragen und zum anderen sparen wir uns im Falle eines Kaufs die Maklerprovision, die das Boot unnötig verteuern würde.
 
 {{ imgpair(
   url_left="/img/der-weg-zu-unserer-wanderer/wanderer_im_wasser.jpg",
@@ -95,7 +95,7 @@ Im Januar ist es dann soweit und Christoph fliegt nach Marseille um das Boot zu 
 
 Anfang Februar ist es soweit. Wir haben uns mit dem Verkäufer auf einen Preis geeinigt, den wir akzeptieren können sofern die Gutachterin grünes Licht gibt. Christoph beschließt die 1700 km von Tavira nach Marseille mit dem Camper zu fahren und bereits etliches unserer Bootsausrüstung mitzunehmen. Er ist aufgeregt, es ist für uns viel Geld und zudem ein großes Boot mit dem wir uns zunächst wieder vertraut machen müssen und in dessen Herausforderungen wir wieder einmal neu hineinwachsen müssen. Doch gleichzeitig lockt die Abenteuerlust und die Aussicht auf eine nahezu grenzenlose Freiheit. Mit diesem Boot können wir die Welt bereisen. Ob Korsika, Sardinien, Elba, die Karibik oder Kanada, mit diesem Schiff können wir all die Orte bereisen, die uns reizen und zwar mit dem Raum und Komfort, den wir uns wünschen.
 
-Das Gutachten fällt sehr positiv aus. Natürlich gibt es kleinere Mängel, wie bei jedem Boot, aber nichts was einem Kauf im Wege stehen würde. Und so kaufen wir Ende Februar unser Traumboot das von nun an unter dem Namen "Wanderer" durch die Weltmeere segeln wird. Jetzt heißt es erstmal Ärmel hochkrempeln für das anstehende Refit auf das wir euch im nächsten Artikel mitnehmen werden.
+Das Gutachten fällt sehr positiv aus. Natürlich gibt es kleinere Mängel, wie bei jedem Boot, aber nichts was einem Kauf im Wege stehen würde. Und so kaufen wir Ende Februar unser Traumboot das von nun an unter dem Namen ["Wanderer"](/boats) durch die Weltmeere segeln wird. Jetzt heißt es erstmal Ärmel hochkrempeln für das anstehende Refit auf das wir euch im nächsten Artikel mitnehmen werden.
 
 
 {{ airbnb_ad()}}

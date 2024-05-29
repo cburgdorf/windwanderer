@@ -95,7 +95,7 @@ Am 12. Mai ist es schließlich soweit und Christoph holt Elvira und Eric in Mars
 )}}
 
 
-Elvira stürtzt sich in das Organisieren und Verräumen der unzähligen Dinge, die wir mitgebracht haben oder vom Voreigner auf dem Boot verblieben sind. Zudem übernimmt sie das Anbringen des Relingsnetzes - eine Aufgabe, die Christoph zuvor frustriert abgebrochen hat. Der starke Mistral macht das Arbeiten am Netz zu einer echten Herausforderung und die Arbeiten am Netz begleiten Elvira eine ganze Weile und Hinterlassen Spuren an ihren Händen. Doch das Ergebnis kann sich sehen lassen und gibt uns ein sichereres Gefühl mit Kindern an Bord.
+Elvira stürtzt sich in das Organisieren und Verräumen der unzähligen Dinge, die wir mitgebracht haben oder vom Voreigner auf dem Boot verblieben sind. Zudem übernimmt sie das Anbringen des Relingsnetzes - eine Aufgabe, die Christoph zuvor frustriert abgebrochen hat. Der starke Mistral macht das Arbeiten am Netz zu einer echten Herausforderung und die Arbeiten am Netz begleiten Elvira eine ganze Weile und hinterlassen Spuren an ihren Händen. Doch das Ergebnis kann sich sehen lassen und gibt uns ein sichereres Gefühl mit Kindern an Bord.
 
 
 {{ imgpair(

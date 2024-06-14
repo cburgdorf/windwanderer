@@ -85,7 +85,7 @@ Zu guter Letzt markieren wir die Kette noch alle 10 Meter mit farbigen Kettenmar
 
 ## Elvira und Eric kommen an Bord
 
-Am 12. Mai ist es schließlich soweit und Christoph holt Elvira und Eric in Marseille vom Flughafen ab. Sie sind voller Neugier, denn im Gegensatz zu Christoph, der seit Januar bereits dreimal beim Boot war, haben sie das Boot bisher noch nie gesehen. Die Freude ist groß. Wir fühlen beide, dass dieses Boot genau dem entspricht wonach wir gesucht haben. Über die Eigenschaften und unsere Kriterien hatten wir ja bereits im [letzten Artikel ausführlich berichtet](/der-weg-zu-unserer-neuen-wanderer).
+Am 12. April ist es schließlich soweit und Christoph holt Elvira und Eric in Marseille vom Flughafen ab. Sie sind voller Neugier, denn im Gegensatz zu Christoph, der seit Januar bereits dreimal beim Boot war, haben sie das Boot bisher noch nie gesehen. Die Freude ist groß. Wir fühlen beide, dass dieses Boot genau dem entspricht wonach wir gesucht haben. Über die Eigenschaften und unsere Kriterien hatten wir ja bereits im [letzten Artikel ausführlich berichtet](/der-weg-zu-unserer-neuen-wanderer).
 
 {{ imgpair(
   url_left="/img/refit-in-suedfrankreich/elvira_und_eric_kommen_an_bord.jpg",

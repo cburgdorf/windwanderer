@@ -1,6 +1,6 @@
 +++
 title = "Mediterrane Inselträume: Elba, Giglio und Korsika erleben"
-date = 2024-06-14
+date = 2024-09-02
 
 [taxonomies]
 categories = ["german"]

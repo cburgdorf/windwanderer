@@ -146,9 +146,14 @@ Von unseren französischen Ankernachbarn erhalten wir zudem noch einen Tipp für
 
 Nach zwei Tagen verlassen wir die paradiesische Bucht und kehren Korsika den Rücken. Bei optimalen Bedingungen segeln wir nach Sardinien, kreuzen hart am Wind durch das [La Maddalena Archipel](https://www.noforeignland.com/place/5101668488183808) und ankern schließlich in der [Rada La Sciumara](https://www.noforeignland.com/place/5445891007709184) westlich von [Palau](https://www.noforeignland.com/place/5682228730265600). Wir lernen unsere sympathischen Ankernachbarn von der Galu Galu kennen, ein holländisch-australisches Pärchen auf dem Weg nach Australien, denen wir noch öfter auf unserer Reise begegnen werden. Mit dem Dinghy legen wir an einem halb verrotteten Steg vor einem Campingplatz an, der sich bestens zum Duschen, Waschen und zur Müllentsorgung anbietet. Wir laufen 15 Minuten bis ins Zentrum von Palau und bekommen dort zwei neue Sonnenbrillen für Christoph, da seine alte leider auf 12 Metern Tiefe in der Bucht von Rondinara verblieben ist. Wir finden außerdem einen sehr schönen Spielplatz für Eric und ein Geschäft, an dem wir unsere leere Gasflasche tauschen können. Aus Sorge, dass der aufkommende Starkwind unsere Bimini weiter beschädigt, nähen wir provisorisch noch die Stelle, an der der Baum einen großen Riss im Stoff hinterlassen hat. Es wird leider nicht die letzte Reparatur dieser Saison an unserer Bimini bleiben.
 
-{{ 
-  imgwide(text="Voller Einsatz: Bimini Reperatur bevor der Starkwind kommt.", url="/img/elba-giglio-und-korsika/bimini.jpg")
-}}
+
+
+{{ imgpair(
+  url_left="/img/elba-giglio-und-korsika/bimini.jpg",
+  text_left="Voller Einsatz: Bimini Reperatur bevor der Starkwind kommt."
+  url_right="/img/elba-giglio-und-korsika/hart_am_wind.jpg",
+  text_right="Hart am Wind durch das La Maddalena Archipel."
+)}}
 
 Nach zwei Nächten geht es weiter nach [Golfo Pevero](https://www.noforeignland.com/place/6038766900740096), wo wir das erste Mal einer Luxusyacht mit Hubschrauber auf dem Deck begegnen. Überhaupt ist die Küstenlinie reich an schicken Villen und Luxusyachten. An Bord interessiert uns heute jedoch eher das Spiel Deutschland-Ungarn der EM 2024, für das selbst Eric ausnahmsweise mal gebannt auf den Bildschirm starren darf.
 

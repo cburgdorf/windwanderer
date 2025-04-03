@@ -9,7 +9,6 @@ build_search_index = true
 
 title = "Wind Wanderer"
 description = "Gone sailing"
-highlight_code = true
 
 theme = "zola-clean-blog"
 

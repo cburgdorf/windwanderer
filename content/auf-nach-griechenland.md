@@ -36,7 +36,7 @@ Der Wind passt super, wir segeln raumschots (Rückenwind) und machen mit ca. 5 -
   text_right="Autsch. Ein verhängnisvoller Fehler beschert uns diesen ca. 40 cm langen Riss im Großsegel."
 )}}
 
-Durch die fehlende Blende entsteht eine Kante an der Führungsnut, die beim Reffen das Segel über einen Fläche von ca. 50 cm aufschlitzt. Wir nehmen es gelassen, da das gesamte Segel bald ersetzt wird und wir auch mit gerefftem Großsegel noch gut vorankommen. Die Nacht verläuft ruhig, wir machen durchgehend gute Fahrt und Christoph steuert die Wanderer durch die Nacht während Elvira und Eric schlafen. Nach bewährtem System stellt sich Christoph irgendwann Wecker im 25 Minuten Abstand um zwischen den Rundumsichtkontrollen auch mal ein paar Minuten zu schlafen.
+Durch die fehlende Blende entsteht eine Kante an der Führungsnut, die beim Reffen das Segel über einen Fläche von ca. 40 cm aufschlitzt. Wir nehmen es gelassen, da das gesamte Segel bald ersetzt wird und wir auch mit gerefftem Großsegel noch gut vorankommen. Die Nacht verläuft ruhig, wir machen durchgehend gute Fahrt und Christoph steuert die Wanderer durch die Nacht während Elvira und Eric schlafen. Nach bewährtem System stellt sich Christoph irgendwann Wecker im 25 Minuten Abstand um zwischen den Rundumsichtkontrollen auch mal ein paar Minuten zu schlafen.
 
 ### Überfahrt, Tag 2
 

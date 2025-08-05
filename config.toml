@@ -26,7 +26,7 @@ highlight_code = true
 author = "Elvira & Christoph"
 clean_blog_menu = [
     {url = "$BASE_URL", name = "Home"},
-    {url = "https://www.vesselfinder.com/?mmsi=218039140", name="Position"},
+    {url = "https://www.marinetraffic.com/en/ais/details/ships/shipid:8822088/mmsi:218039140/imo:0/vessel:WANDERER", name="Position"},
     {url = "$BASE_URL/boats", name = "Boot"},
     {url = "$BASE_URL/routes", name = "Routen"},
     {url = "https://www.instagram.com/sy.wanderer", name = "Instagram"},

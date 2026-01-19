@@ -5,6 +5,9 @@ date = 2026-01-19
 [taxonomies]
 categories = ["german"]
 tags = ["german", "announcement"]
+
+[extra]
+header_img = "/img/saisonfinale-in-griechenland/erikoussa.jpg"
 +++
 
 

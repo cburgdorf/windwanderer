@@ -2,7 +2,12 @@
 
 {% block header %}
 <!-- Page Header -->
-<header class="masthead" style="background-image: url('{{ get_url(path="/img/post-bg.jpg")}}')">
+{% if page.extra.header_img %}
+  {% set header_img = get_url(path=page.extra.header_img) %}
+{% else %}
+  {% set header_img = get_url(path="/img/post-bg.jpg") %}
+{% endif %}
+<header class="masthead" style="background-image: url('{{ header_img }}')">
   <div class="overlay"></div>
   <div class="container">
     <div class="row">

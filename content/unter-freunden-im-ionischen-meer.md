@@ -5,6 +5,9 @@ date = 2025-10-10
 [taxonomies]
 categories = ["german"]
 tags = ["german", "annoucement"]
+
+[extra]
+header_img = "/img/unter-freunden-im-ionischen-meer/angelglueck_agia.jpg"
 +++
 
 

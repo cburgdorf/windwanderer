@@ -5,6 +5,9 @@ date = 2025-05-29
 [taxonomies]
 categories = ["german"]
 tags = ["german", "annoucement"]
+
+[extra]
+header_img = "/img/auf-nach-griechenland/sonnenuntergang.jpg"
 +++
 
 

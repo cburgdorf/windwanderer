@@ -5,6 +5,9 @@ date = 2024-05-25
 [taxonomies]
 categories = ["german"]
 tags = ["german", "annoucement"]
+
+[extra]
+header_img = "img/refit-in-suedfrankreich/klapprad.jpg"
 +++
 
 

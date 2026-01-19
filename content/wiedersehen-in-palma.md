@@ -5,6 +5,9 @@ date = 2023-06-16
 [taxonomies]
 categories = ["german"]
 tags = ["german", "annoucement"]
+
+[extra]
+header_img = "/img/wiedersehen-in-palma/futura_bay-min.jpg"
 +++
 
 Wir sitzen bei angenehmem Wind und Sonne im Cockpit und setzen von Ibiza aufs spanische Festland über, wie wir diese Zeilen schreiben. Doch bis hierhin ist viel passiert. So viel, dass wir etwas Schreibfaul geworden sind. Doch die lange Überfahrt ohne Handyempfang kommt genau richtig um diese Lethargie zu überwinden. Los geht's - viel Spaß beim Lesen. 

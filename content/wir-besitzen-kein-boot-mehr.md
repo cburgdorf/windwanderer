@@ -5,6 +5,9 @@ date = 2023-10-28
 [taxonomies]
 categories = ["german"]
 tags = ["german", "annoucement"]
+
+[extra]
+header_img = "/img/kein-boot-mehr/reunion_1-min.jpg"
 +++
 
 Nein, die Futura ist nicht gesunken, aber wir haben sie verkauft. Von nun an wird sie unter österreichischer Flagge weitersegeln, doch dazu später mehr. Seit wir uns im Juli für eine zweimonatige Deutschlandpause aufs Land zurückgezogen hatten, ist es still hier im Blog geblieben. Doch tatsächlich haben wir viel erlebt und möchten heute die Gelegenheit ergreifen, über die letzten Monate zu reflektieren und einen Ausblick auf die Zukunft zu geben.

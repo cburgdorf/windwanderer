@@ -5,6 +5,9 @@ date = 2024-09-02
 [taxonomies]
 categories = ["german"]
 tags = ["german", "annoucement"]
+
+[extra]
+header_img = "/img/elba-giglio-und-korsika/porto_azzuro.jpg"
 +++
 
 

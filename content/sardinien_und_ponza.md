@@ -5,6 +5,9 @@ date = 2024-11-21
 [taxonomies]
 categories = ["german"]
 tags = ["german", "annoucement"]
+
+[extra]
+header_img = "/img/sardinien-und-ponza/ponza_bunt.JPG"
 +++
 
 

@@ -5,6 +5,9 @@ date = 2024-06-14
 [taxonomies]
 categories = ["german"]
 tags = ["german", "annoucement"]
+
+[extra]
+header_img = "/img/wildes-korsika-und-boatwork/sonnenuntergang.jpg"
 +++
 
 

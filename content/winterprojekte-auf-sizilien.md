@@ -6,7 +6,6 @@ date = 2025-05-15
 categories = ["german"]
 tags = ["german", "annoucement"]
 
-
 [extra]
 header_img = "/img/winterprojekte-auf-sizilien/volles_fach.jpg"
 +++

@@ -5,6 +5,9 @@ date = 2025-04-07
 [taxonomies]
 categories = ["german"]
 tags = ["german", "annoucement"]
+
+[extra]
+header_img = "/img/von-rom-nach-ragusa/amalfiküste.jpeg"
 +++
 
 Nach einem intensiven, besuchsreichen und vielfältigen Deutschlandaufenthalt über 3,5 Wochen fliegen wir Ende August wieder zu dritt zum Boot nach Rom zurück. Dort ist es noch immer heiß wie zuvor und wir wollen nur noch wenige Tage hier verbringen, bevor es weitergehen soll Richtung Süden. Bis Anfang Oktober haben wir Zeit, im Winterhafen Marina di Ragusa anzukommen, und sind gespannt, was der letzte Teil unserer diesjährigen Segelsaison noch für uns bereit hält.

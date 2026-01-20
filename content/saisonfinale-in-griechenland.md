@@ -126,6 +126,13 @@ Am nächsten Tag kreuzen wir bei steifer Brise nach Gaios, doch die Ankermöglic
 
 Vielleicht hat am Ende auch wieder alles seinen Sinn, denn mehrere schöne Überraschungen erwarten uns in Parga. Wir sind kurz davor in die Bucht von Parga einzulaufen und Elvira holt gerade bereits die ersten paar Meter die Schleppleine ein als sie einen deutlichen Ruck spürt. Fish on! Schon beim Einholen wird klar, dass wir es dieses Mal nicht mit irgendeinem exotischen Winzfisch zu tun haben, sondern unseren ersten kleinen Thunfisch an der Angel haben. So kümmern wir uns noch schnell um den Fisch bevor schließlich der Anker in der großen Bucht neben Parga fällt (Direkt vor Parga ist das Ankern nicht erlaubt). In Windeseile sitzen wir auch bereits im Dinghy, um zumindest noch für eine kurze Weile die Stadt zu erkunden.
 
+{{ imgpair(
+  url_left="/img/saisonfinale-in-griechenland/thunfisch_eimer.jpg",
+  text_left="Vermutlich ein Bonito: Unser erster Thunfisch an der Angel.",
+  url_right="/img/saisonfinale-in-griechenland/thunfisch.jpg",
+  text_right="Da strahlen die Männer. Das Essen ist gesichert."
+)}}
+
 Diese wird zur weiteren Überraschung, denn sie ist ausgesprochen hübsch, bietet reichlich Einkaufsmöglichkeiten, einen Spielplatz sowie eine Tankstelle, was uns alles gerade sehr gelegen kommt, haben wir doch seit Korfu Stadt keinen wirklich größeren Ort mehr zu Gesicht bekommen. Und so beschließen wir bereits am ersten Abend mindestens für zwei Nächte hier zu bleiben. Die Nacht entpuppt sich jedoch als sehr anstrengend, denn unser Platz bekommt mehr Schwell ab als uns lieb ist und so verlegen wir uns am nächsten Tag noch einmal etwas tiefer in die Bucht hinein, was sich im Nachgang jedoch als wenig hilfreich herausstellt.
 
 Über die dritte Überraschung freuen wir uns am meisten, denn völlig ohne Vorankündigung sehen wir plötzlich die Godewind von Michel und Elvira (!) in die Bucht einlaufen. Wir hatten die beiden im Frühjahr auf Sizilien kennengelernt und uns auf Anhieb gut verstanden. Wir rufen und winken und sitzen wenige Minuten später bereits beim Campari in ihrem Cockpit und tauschen Geschichten aus.

@@ -7,7 +7,7 @@ categories = ["german"]
 tags = ["german", "announcement"]
 
 [extra]
-header_img = "/img/saisonfinale-in-griechenland/erikoussa.jpg"
+header_img = "/img/winterprojekte-in-preveza/windex.jpg"
 +++
 
 

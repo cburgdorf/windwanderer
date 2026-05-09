@@ -1,3 +1,10 @@
+#!/usr/bin/env -S pipx run
+# /// script
+# requires-python = ">=3.10"
+# dependencies = [
+#   "Pillow",
+# ]
+# ///
 import os
 import sys
 from PIL import Image

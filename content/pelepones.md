@@ -89,7 +89,7 @@ Nachdem uns die Coast Guard in Pylos unerwartet aus der Ankerbucht vertreibt, ve
   url_left="/img/pelepones/petalidi.jpg",
   text_left="Auf dem zentralen Platz in Petalidid lässt Eric sein heiß geliebtes Flugzeug steigen.",
   url_right="/img/pelepones/healing_hill.jpg",
-  text_right="Vor dem Museum entdecken wir Landschildkröten im dichten Gras."
+  text_right="Landgang mit Clemens und Steffi. Mit dem Auto fahren wir zu ihrem Lieblingsrestaurant."
 )}}
 
 Ein weiteres Highlight kommt jedoch mit dem Auto nach Petalidi gefahren: Steffi und Clemens, die Elvira vor einigen Jahren bei ihrer Ausbildung zur Kundalini Yoga Lehrerin kennengelernt hat, haben sich in Griechenland niedergelassen und hier ihren "Healing Hill" gegründet. Wir freuen uns riesig, die beiden hier zu treffen und laden sie zunächst auf unsere Wanderer ein, bevor wir anschließend gemeinsam zu ihrem "Healing Hill" fahren. Die beiden haben sich hier eine richtige Wohlfühloase geschaffen. Ein Hof mitten im Grünen mit Olivenbäumen, aus denen sie ihr eigenens Olivenöl pressen und Räumlichkeiten, die sie mit viel Aufwand und Liebe zum Detail teilweise kernsanieren mussten. Hier bieten sie verschiedene Yoga- und Meditationskurse an, veranstalten Workshops und Retreats und haben auch eine kleine Ferienwohnung, die sie vermieten.

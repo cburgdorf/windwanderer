@@ -1,6 +1,6 @@
 +++
 title = "Rund um den Peloponnes: Von Githio bis nach Poros"
-date = 2026-07-14
+date = 2026-09-08
 
 [taxonomies]
 categories = ["german"]

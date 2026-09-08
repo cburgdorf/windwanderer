@@ -7,7 +7,7 @@ categories = ["german"]
 tags = ["german", "announcement"]
 
 [extra]
-header_img = "/img/githio-nach-poros/tbd"
+header_img = "/img/githio-nach-poros/githio_shipwreck.jpg"
 +++
 
 
